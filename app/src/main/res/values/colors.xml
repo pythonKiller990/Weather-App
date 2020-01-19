@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="searchscreen">#000000</color>
+
+<!--Custom colors1-->
+    <color name="customPrimary">#651fff</color>
+    <color name="customPrimaryDark">#6200ea</color>
+    <color name="customAccent">#b388ff</color>
+
+
+
+</resources>
